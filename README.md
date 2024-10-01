@@ -19,8 +19,9 @@ Olá! Sou João Alves, estudante de Análise e Desenvolvimento de Sistemas na FI
 - **Desenvolvimento de Testes**: Participei de um teste para estágio na Target Sistemas, onde desenvolvi exercícios em Java e implementei uma classe `Main` com um menu de uso.
 - **JavaScript**: Estou atualmente aprimorando minhas habilidades em lógica de programação com JavaScript.
 
-[![Status GitHub](https://github-readme-stats.vercel.app/api?username=ehojonv&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Status](https://github-readme-stats.vercel.app/api?username=ehojonv&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=ehojonv&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🌐 Conecte-se Comigo
 
