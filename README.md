@@ -21,7 +21,7 @@ Olá! Sou João Alves, estudante de Análise e Desenvolvimento de Sistemas na FI
 
 [![Status](https://github-readme-stats.vercel.app/api?username=ehojonv&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=ehojonv&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=ehojonv&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🌐 Conecte-se Comigo
 
