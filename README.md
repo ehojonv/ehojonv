@@ -1,22 +1,41 @@
-# João Vinicius Alves
+# Olá, eu sou o João! 👋
 
-### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em Aprendizado
+### 🚀 Desenvolvedor Fullstack
 
-Olá! Sou João Alves, estudante de Análise e Desenvolvimento de Sistemas na FIAP. Com 19 anos, estou constantemente em busca de oportunidades para aplicar meus conhecimentos em situações práticas e colaborar com equipes para alcançar resultados positivos.
+Sou apaixonado por tecnologia, café e por construir soluções que facilitem a vida das pessoas.
 
-### 💡 Sobre Mim
-
-- Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**.
-- Estudei **Ciências do Mar** na **UNIFESP** por dois anos, o que me ajudou a desenvolver habilidades como trabalho em equipe, análise de dados, organização e resolução de problemas.
-- Sou motivado pelo **aprendizado contínuo** e pelo **crescimento profissional**, sempre pronto para enfrentar novos desafios e contribuir para o sucesso de projetos e iniciativas.
-
-
-[![Status](https://github-readme-stats.vercel.app/api?username=ehojonv&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🛠️ Tecnologias e Ferramentas
+
+Aqui estão algumas das ferramentas que utilizo no meu dia a dia:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,docker,figma,flutter,java,vscode,visualstudio," />
+</p>
+
 ---
-[![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=ehojonv&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🌐 Conecte-se Comigo
+### 📊 Minhas Estatísticas
 
-- [LinkedIn](https://www.linkedin.com/in/joao-v-alves/)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ehojonv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ehojonv&layout=compact&langs_count=7&theme=dracula" />
+</p>
+
+### 🏆 Troféus do GitHub
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ehojonv&theme=draculaui&column=7&no-bg=true&no-frame=true" alt="troféus" />
+</p>
+
+---
+
+
+### 📫 Como me encontrar
+
+<p align="center">
+<a href="https://linkedin.com/in/joao-v-alves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="João" height="30" width="40" /></a>
+</p>
+
+---
