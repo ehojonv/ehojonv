@@ -24,11 +24,6 @@ Aqui estão algumas das ferramentas que utilizo no meu dia a dia:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ehojonv&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
-### 🏆 Troféus do GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ehojonv&theme=draculaui&column=7&no-bg=true&no-frame=true" alt="troféus" />
-</p>
-
 ---
 
 
