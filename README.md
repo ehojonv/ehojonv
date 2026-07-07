@@ -1,36 +1,62 @@
-# Olá, eu sou o João! 👋
-
-### 🚀 Desenvolvedor Fullstack
-
-Sou apaixonado por tecnologia, café e por construir soluções que facilitem a vida das pessoas.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-Aqui estão algumas das ferramentas que utilizo no meu dia a dia:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,docker,figma,flutter,java,vscode,visualstudio," />
-</p>
-
----
-
-### 📊 Minhas Estatísticas
+<h1 align="center">Hi, I'm João 👋</h1>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ehojonv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ehojonv&layout=compact&langs_count=7&theme=dracula" />
+  Software Development Graduate from FIAP <br>
+  Aspiring Cybersecurity Analyst
 </p>
 
 ---
 
+## About Me
 
-### 📫 Como me encontrar
+I am a Software Development graduate from FIAP with a strong interest in Cybersecurity, Backend Development, and Cloud Computing.
 
-<p align="center">
-<a href="https://linkedin.com/in/joao-v-alves/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="João" height="30" width="40" /></a>
+I enjoy learning by building practical projects, solving security challenges, and continuously improving my technical skills.
+
+---
+
+## Currently Learning
+
+- Cybersecurity
+- Java
+- Spring Boot
+- Python
+- Linux
+- Networking
+- Cloud Computing
+- AWS
+
+---
+
+## Career Goal
+
+To build a career in Cybersecurity, focusing on Blue Team, Cloud Security, and Application Security while continuously expanding my knowledge through projects, certifications, and hands-on labs.
+
+---
+
+## Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,linux,docker,git,github,mysql,aws,vscode" />
 </p>
 
 ---
+
+## Current Focus
+
+- Building cybersecurity projects
+- Practicing on TryHackMe
+- Studying networking and Linux
+- Developing secure applications with Spring Boot
+- Growing my GitHub portfolio
+
+---
+
+## Learning Journey
+
+- Google Cybersecurity Professional Certificate (In Progress)
+- ISC2 Certified in Cybersecurity (Planned)
+- TryHackMe Labs
+- Cybersecurity Projects
+- Spring Security
+- AWS Security
