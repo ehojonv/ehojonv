@@ -33,12 +33,12 @@ I enjoy learning by building practical projects, solving security challenges, an
 To build a career in Cybersecurity, focusing on Blue Team, Cloud Security, and Application Security while continuously expanding my knowledge through projects, certifications, and hands-on labs.
 
 ---
-
 ## Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,linux,docker,git,github,mysql,aws,vscode" />
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,linux,docker,git,github,aws,css,html,md,vscode" />
+</a>
+
 
 ---
 
